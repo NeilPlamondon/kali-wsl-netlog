@@ -1,0 +1,7 @@
+# outputs
+captures/
+scans/
+
+# OS junk
+.DS_Store
+Thumbs.db
